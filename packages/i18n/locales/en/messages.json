@@ -1,11 +1,11 @@
 {
   "extensionDescription": {
-    "description": "Extension description",
-    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+    "description": "Add checkboxes to Github issues",
+    "message": "My Github checker"
   },
   "extensionName": {
-    "description": "Extension name",
-    "message": "Chrome extension boilerplate"
+    "description": "Add checkboxes to Github issues",
+    "message": "My Github checker"
   },
   "toggleTheme": {
     "message": "Toggle theme"
